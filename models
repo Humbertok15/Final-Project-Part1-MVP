@@ -5,3 +5,8 @@
   password,
   role
 }
+
+role: {
+  type: DataTypes.STRING,
+  defaultValue: "user"
+}
