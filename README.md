@@ -18,3 +18,6 @@ Proper HTTP methods and status codes with graceful error handling and appropriat
 Unit tests for critical functionality
 Production deployment to Render with public URL access
 Comprehensive documentation including setup instructions and API endpoint documentation
+
+npm install
+npm start
